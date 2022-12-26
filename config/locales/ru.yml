@@ -26,22 +26,22 @@ ru:
     
   header:
     advanced_articles: "Все статьи" 
-    advanced: "Ещё"
+    advanced: "О медитации"
     live_meditations: "Медитации в прямом эфире"
     classes_near_me: "Центры медитации" 
     inspiration_from_within: "Источник вдохновения внутри"
     preview_notice: "ТЫ просматриваешь предварительный вариант"
     kundalini: "Внутренняя Энергия"
-    social: "Follow us"
-    further_reading: "Further Reading" # TODO: Translate
+    social: "Мы в соцсетях"
+    further_reading: "Статьи"
 
   cookie_notice:
     text: "Продолжая использовать wemeditate.com, ты даёшь согласие на использование файлов cookie."
     learn_more: "Ещё"
 
-  locale_redirect: # TODO: Translate
-    text: "Ищете на русский?"
-    action: "Переключиться на русский язык"
+  locale_redirect:
+    text: "Ищешь русскоязычную версию сайта?"
+    action: "Перейти"
 
   footer:
     scroll_to_top: "Наверх"
@@ -146,7 +146,7 @@ ru:
       dec: Дек
 
   meditations:
-    title: "Meditations"
+    title: "Медитации"
     prescreen:
       title: "Хочешь научиться медитировать? Cначала пробуди свою %{kundalini}"
       kundalini: "внутреннюю энергию"
@@ -261,8 +261,7 @@ ru:
   javascript:
     reading_time: "%{minutes} мин. чтения" 
     loading: "Загружается..." 
-    error: "Error - please try again later" # TODO: Translate
-    popup:
+    error: "Ошибка - пожалуйста попробуй через некоторое время"
       close: "Закрыть (Esc)"
       loading: "Загружается..."
       prev: "Предыдущий (Клавиша со стрелкой влево)"
